@@ -63,7 +63,7 @@ Para ejecutar la aplicación en modo de desarrollo, utiliza el siguiente comando
 pnpm dev
 ```
 
-Este comando iniciará un servidor de desarrollo y abrirá tu aplicación en el navegador predeterminado.
+Este comando iniciará un servidor de desarrollo y abrirá la aplicación en el navegador predeterminado.
 
 ### Compilar para producción
 
@@ -73,7 +73,7 @@ Si deseas compilar tu aplicación para producción, puedes usar el siguiente com
 pnpm build
 ```
 
-Este comando generará una versión optimizada de tu aplicación en el directorio `dist`.
+Este comando generará una versión optimizada de la aplicación en el directorio `dist`.
 
 
 
